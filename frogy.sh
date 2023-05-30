@@ -20,7 +20,7 @@ echo -e "
               ,:cclloodddxxxxxxxxxdddoollcc::.
                      .,:ccccccccccc:::.
 "
-
+ 
 ############################################################### Housekeeping tasks ######################################################################
 
 echo -e "\e[94mEnter the organisation name (E.g., Carbon Black): \e[0m"
